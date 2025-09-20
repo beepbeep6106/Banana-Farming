@@ -2,7 +2,7 @@
 
 ▌🎁 What You'll Get
 
-This tool helps streamline the resource acquisition process within the @OfficialBananaBot (https://t.me/OfficialBananaBot/banana) environment. It assists in managing collection, task completion, and related activities across multiple accounts efficiently.
+This tool helps streamline the resource acquisition process within the banana on steam environment. It assists in managing collection, task completion, and related activities across multiple accounts efficiently.
 
 ▌⚙️ Tool Features:
 
